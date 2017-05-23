@@ -1,0 +1,34 @@
+{
+    "name": "internet-available",
+    "version": "1.0.0",
+    "description": "A module to verify if there's an active internet connection with Node.js",
+    "main": "internet-available.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "internet",
+        "online",
+        "offline",
+        "is-online",
+        "network",
+        "connected",
+        "connectivity",
+        "internet",
+        "is",
+        "has",
+        "detect",
+        "hostname",
+        "hostnames",
+        "dns",
+        "socket",
+        "reachable",
+        "reachability",
+        "accessible"
+    ],
+    "author": "Our Code World",
+    "license": "MIT",
+    "dependencies": {
+        "dns-socket": "^1.6.1"
+    }
+}
