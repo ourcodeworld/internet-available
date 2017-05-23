@@ -30,5 +30,14 @@
     "license": "MIT",
     "dependencies": {
         "dns-socket": "^1.6.1"
-    }
+    },
+    "devDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ourcodeworld/internet-available.git"
+    },
+    "bugs": {
+        "url": "https://github.com/ourcodeworld/internet-available/issues"
+    },
+    "homepage": "https://github.com/ourcodeworld/internet-available#readme"
 }
