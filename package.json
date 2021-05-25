@@ -29,7 +29,7 @@
     "author": "Our Code World",
     "license": "MIT",
     "dependencies": {
-        "dns-socket": "^1.6.1"
+        "dns-socket": "^4.2.1"
     },
     "devDependencies": {},
     "repository": {
